@@ -9,7 +9,9 @@ const Listing = require('./models/listing');
 const path = require("path");
 const methodOverride = require("method-override");
 const ejsMate = require("ejs-mate");
-const MONGO_URL = "mongodb://127.0.0.1:27017/handMade";
+/* const MONGO_URL = "mongodb://127.0.0.1:27017/handMade"; */
+const MONGO_URL = process.env.MONGO_URI;
+
 const wrapAsync = require("./utils/wrapAsync");
 const ExpressError = require("./utils/ExpressError");
 const {listingSchema, reviewSchema} = require("./schema.js");
@@ -97,7 +99,14 @@ app.use("/", userRouter);
         /* res.status(statusCode).send(message); */
     });
 
-app.listen(8080, () => {
+/* app.listen(8080, () => {
     console.log("server is listing on port 8080.");
+}); */
+
+
+const PORT = process.env.PORT || 8080;
+
+app.listen(PORT, () => {
+    console.log(`server is running on port ${PORT}`);
 });
 
