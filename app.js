@@ -55,9 +55,9 @@ const sessionOptions = {
     }
 };
 
-app.get("/", (req, res) => {
+/* app.get("/", (req, res) => {
     res.send("hi, welcome to my server.");
-});
+}); */
 
 app.use(session(sessionOptions));
 app.use(flash());
