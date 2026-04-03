@@ -55,9 +55,10 @@ const sessionOptions = {
     }
 };
 
-/* app.get("/", (req, res) => {
+app.get("/", (req, res) => {
     res.send("hi, welcome to my server.");
-}); */
+});
+
 app.get("/test", async (req, res) => {
     const data = await Listing.find({});
     res.send(data);
