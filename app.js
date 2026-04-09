@@ -63,8 +63,9 @@ const sessionOptions = {
 };
 
 app.get("/", (req, res) => {
-    res.send("hi, welcome to my server.");
+    res.redirect("/listings");
 });
+
 
 app.get("/test", async (req, res) => {
     const data = await Listing.find({});
