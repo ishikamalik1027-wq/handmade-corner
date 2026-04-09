@@ -26,4 +26,4 @@ const initDB = async () => {
     await Listing.insertMany(initData.data);
     console.log("database initialized.");
 };
-initDB();
+module.exports = initDB;
