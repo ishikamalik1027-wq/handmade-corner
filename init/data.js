@@ -16,7 +16,7 @@ const sampleListing = [
     price: 799,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/5705493/pexels-photo-5705493.jpeg"
+      url: "https://images.pexels.com/photos/29037186/pexels-photo-29037186.jpeg"
     }
   },
   {
@@ -26,7 +26,7 @@ const sampleListing = [
     price: 1299,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/10983783/pexels-photo-10983783.jpeg"
+      url: "https://images.pexels.com/photos/29624003/pexels-photo-29624003.jpeg"
     }
   },
   {
@@ -36,7 +36,7 @@ const sampleListing = [
     price: 349,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/6195129/pexels-photo-6195129.jpeg"
+      url: "https://images.pexels.com/photos/20667239/pexels-photo-20667239.jpeg"
     }
   },
   {
@@ -46,7 +46,7 @@ const sampleListing = [
     price: 699,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/6311392/pexels-photo-6311392.jpeg"
+      url: "https://images.pexels.com/photos/5710116/pexels-photo-5710116.jpeg"
     }
   },
   {
@@ -56,7 +56,7 @@ const sampleListing = [
     price: 1599,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/1570264/pexels-photo-1570264.jpeg"
+      url: "https://images.pexels.com/photos/32702192/pexels-photo-32702192.jpeg"
     }
   },
   {
@@ -66,7 +66,7 @@ const sampleListing = [
     price: 1199,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/112811/pexels-photo-112811.jpeg"
+      url: "https://images.pexels.com/photos/31047258/pexels-photo-31047258.jpeg"
     }
   },
   {
@@ -76,7 +76,7 @@ const sampleListing = [
     price: 599,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg"
+      url: "https://images.pexels.com/photos/5993611/pexels-photo-5993611.jpeg"
     }
   },
   {
@@ -86,7 +86,7 @@ const sampleListing = [
     price: 899,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/6207765/pexels-photo-6207765.jpeg"
+      url: "https://images.pexels.com/photos/6806697/pexels-photo-6806697.jpeg"
     }
   },
   {
@@ -96,7 +96,7 @@ const sampleListing = [
     price: 999,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/2079246/pexels-photo-2079246.jpeg"
+      url: "https://images.pexels.com/photos/6651189/pexels-photo-6651189.jpeg"
     }
   },
   {
@@ -106,7 +106,7 @@ const sampleListing = [
     price: 1299,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/3662824/pexels-photo-3662824.jpeg"
+      url: "https://images.pexels.com/photos/18642135/pexels-photo-18642135.jpeg"
     }
   },
   {
@@ -116,7 +116,7 @@ const sampleListing = [
     price: 549,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg"
+      url: "https://images.pexels.com/photos/8059554/pexels-photo-8059554.jpeg"
     }
   },
   {
@@ -126,7 +126,7 @@ const sampleListing = [
     price: 399,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/4465831/pexels-photo-4465831.jpeg"
+      url: "https://images.pexels.com/photos/7827595/pexels-photo-7827595.jpeg"
     }
   },
   {
@@ -136,7 +136,7 @@ const sampleListing = [
     price: 699,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg"
+      url: "https://images.pexels.com/photos/12741367/pexels-photo-12741367.jpeg"
     }
   },
   {
@@ -146,7 +146,7 @@ const sampleListing = [
     price: 499,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/6207759/pexels-photo-6207759.jpeg"
+      url: "https://images.pexels.com/photos/6907910/pexels-photo-6907910.jpeg"
     }
   },
   {
@@ -156,7 +156,7 @@ const sampleListing = [
     price: 899,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/4207475/pexels-photo-4207475.jpeg"
+      url: "https://images.pexels.com/photos/34046822/pexels-photo-34046822.jpeg"
     }
   },
   {
@@ -166,7 +166,7 @@ const sampleListing = [
     price: 299,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg"
+      url: "https://images.pexels.com/photos/34151708/pexels-photo-34151708.jpeg"
     }
   },
   {
@@ -176,7 +176,7 @@ const sampleListing = [
     price: 649,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/2762247/pexels-photo-2762247.jpeg"
+      url: "https://images.pexels.com/photos/11911940/pexels-photo-11911940.jpeg"
     }
   },
   {
@@ -186,7 +186,7 @@ const sampleListing = [
     price: 399,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg"
+      url: "https://images.pexels.com/photos/2402712/pexels-photo-2402712.jpeg"
     }
   },
   {
@@ -196,7 +196,7 @@ const sampleListing = [
     price: 499,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/6311393/pexels-photo-6311393.jpeg"
+      url: "https://images.pexels.com/photos/11630887/pexels-photo-11630887.jpeg"
     }
   },
   {
@@ -206,7 +206,7 @@ const sampleListing = [
     price: 249,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/8887054/pexels-photo-8887054.jpeg"
+      url: "https://images.pexels.com/photos/32799156/pexels-photo-32799156.jpeg"
     }
   },
   {
@@ -216,7 +216,7 @@ const sampleListing = [
     price: 299,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/6957083/pexels-photo-6957083.jpeg"
+      url: "https://images.pexels.com/photos/18979384/pexels-photo-18979384.jpeg"
     }
   },
   {
@@ -226,7 +226,7 @@ const sampleListing = [
     price: 599,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/5705494/pexels-photo-5705494.jpeg"
+      url: "https://images.pexels.com/photos/4937320/pexels-photo-4937320.jpeg"
     }
   },
   {
@@ -236,7 +236,7 @@ const sampleListing = [
     price: 799,
     image: {
       filename: "listingimage",
-      url: "https://images.pexels.com/photos/6207770/pexels-photo-6207770.jpeg"
+      url: "https://images.pexels.com/photos/7258063/pexels-photo-7258063.jpeg"
     }
   },
   {
