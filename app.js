@@ -1,3 +1,7 @@
+const initData = require("./init/index");
+initData();
+
+
 if(process.env.NODE_ENV !="production"){
     require('dotenv').config();
 }
