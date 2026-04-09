@@ -32,9 +32,11 @@ const userRouter = require("./routes/user.js");
 
 main().then(() => {
     console.log("connected to MongoDB.");
+    initDB();
 }).catch((err) => {
     console.error("failed to connect to MongoDB.", err);
 });
+
 
 async function main() {
     await mongoose.connect(MONGO_URL);
